@@ -1,0 +1,7 @@
+{
+  "name": "SARRA v2.8 Honest Edition",
+  "description": "Avatar assistant vocal intelligent (Expert Pâtisserie Tunis), utilisant Gemini Live Audio & RAG local.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
