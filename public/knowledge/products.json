@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "vt-200",
+    "name": "IceTeam VT-200",
+    "brand": "IceTeam",
+    "price": 2450,
+    "currency": "TND",
+    "stock": true,
+    "description": "Machine à glace professionnelle compacte, idéale pour les petits ateliers de pâtisserie à Tunis.",
+    "category": "Machines à Glace"
+  },
+  {
+    "id": "clabo-easy",
+    "name": "Clabo Easy 12",
+    "brand": "Clabo",
+    "price": 12500,
+    "currency": "TND",
+    "stock": 2,
+    "description": "Vitrine à glace élégante avec 12 bacs, froid ventilé haute performance.",
+    "category": "Vitrines"
+  },
+  {
+    "id": "gemm-bc",
+    "name": "GEMM BC/10",
+    "brand": "GEMM",
+    "price": 8900,
+    "currency": "TND",
+    "stock": false,
+    "description": "Cellule de refroidissement rapide 10 niveaux pour pâtisserie fine.",
+    "category": "Froid"
+  }
+]
